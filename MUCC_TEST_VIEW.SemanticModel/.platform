@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "MUCC_TEST_VIEW"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "343ea420-06ca-89c6-429b-52ca9f0a2b67"
+  }
+}
